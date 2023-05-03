@@ -1,4 +1,4 @@
-# U-King Editor
+# EX-King Editor
 
 This is the source repository for U-King Editor, an application to edit various BOTW (and hopefully TotK) files.
 
@@ -7,12 +7,11 @@ This is the source repository for U-King Editor, an application to edit various 
 
 ### Defaults
 
-- **Yaz0:** Yaz0 de/compression will be handled automatically with custom options
+- **zStandard:** zStandard de/compression will be handled automatically
 
 ### Planned supported formats
 
-- **Aamp:** Editor, Yaml
-- **Byml:** Editor for certain Byml files, Yaml
+- **Byml (Bgyml):** Editor, Yaml
 - **Msbt:** Pseudo-Html
 - **Sarc:** Tree view, sub-file editing (where applicable)
 
