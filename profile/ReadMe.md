@@ -8,12 +8,13 @@ This is the source repository for U-King Editor, an application to edit various 
 ### Defaults
 
 - **zStandard:** zStandard de/compression will be handled automatically
+- **Byml (Bgyml):** Editor, Yaml
+- **Sarc:** Tree view, sub-file editing (where applicable)
 
 ### Planned supported formats
 
-- **Byml (Bgyml):** Editor, Yaml
 - **Msbt:** Pseudo-Html
-- **Sarc:** Tree view, sub-file editing (where applicable)
+- **RESTBL:** Table editor
 
 ### Loosly planned formats and concepts
 
