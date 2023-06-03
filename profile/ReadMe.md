@@ -1,9 +1,11 @@
-# EX-King Editor
+# Nintendo Extended Editor (NX-Editor)
 
-This is the source repository for U-King Editor, an application to edit various BOTW (and hopefully TotK) files.
+[![License](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg)](License.txt) [![Downloads](https://img.shields.io/github/downloads/NX-Editor/NX-Editor/total)](https://github.com/NX-Editor/NX-Editor/releases)
+
+A general editor for editing first-party Nintendo formats. Primary aimed at support for Tears of the Kingdom files and more omdern Nintendo Switch files.
 
 ## Supported Formats
-> Updated 2/13/2023
+> Updated 6/3/2023
 
 ### Defaults
 
@@ -11,10 +13,10 @@ This is the source repository for U-King Editor, an application to edit various 
 - **Byml (Bgyml):** Editor, Yaml
 - **Sarc:** Tree view, sub-file editing (where applicable)
 - **RESTBL:** Yaml editor
+- - **Msbt:** Yaml Editor (Pseudo-Html Tags)
 
 ### Planned supported formats
 
-- **Msbt:** Pseudo-Html
 - **RESTBL:** Table editor
 
 ### Loosly planned formats and concepts
