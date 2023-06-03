@@ -13,7 +13,7 @@ A general editor for editing first-party Nintendo formats. Primary aimed at supp
 - **Byml (Bgyml):** Editor, Yaml
 - **Sarc:** Tree view, sub-file editing (where applicable)
 - **RESTBL:** Yaml editor
-- - **Msbt:** Yaml Editor (Pseudo-Html Tags)
+- **Msbt:** Yaml Editor (Pseudo-Html Tags)
 
 ### Planned supported formats
 
